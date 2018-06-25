@@ -90,6 +90,7 @@ img {
 	font-size:30px;
 	letter-spacing:5px;
 }
+
 .whitecolor {
 	color: #fff;
 }
@@ -1263,4 +1264,11 @@ img.mfp-img {
 	.faq-block {
 					margin: 0;
 	}
+	
+	h3.section-title.justtitle {
+	text-transform:uppercase;
+	font-size:30px;
+	letter-spacing:5px;
+	color:black;
+}
 }
